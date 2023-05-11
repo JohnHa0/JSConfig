@@ -1,0 +1,2 @@
+# JSConfig
+OWN USE ONLY 
